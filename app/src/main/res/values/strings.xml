@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimSwitcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_top">Top</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="change_data_use_button_text">Change Data Use SIM</string>
+    <string name="current_data_use_sim_text">Current Use Data SIM:</string>
+
+    <string name="phone_no_text">012-3456-7890</string>
+    <string name="phone_career_text">careerName</string>
+    <string name="data_using_sim_text">Data Using SIM</string>
+</resources>
